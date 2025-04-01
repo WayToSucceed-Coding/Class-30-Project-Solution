@@ -92,6 +92,9 @@ while running:
             obj.draw()
             obj.move()
 
+    else:
+        pass
+
     pygame.display.update()
 
 pygame.quit()
